@@ -1,0 +1,15 @@
+// IDE
+.idea
+
+// NODE_MODULES
+node_modules
+
+// STATIC FILES
+public/dist
+
+// LOCK FILES
+package-lock.json
+
+// ENV
+.env.development
+.env.test
